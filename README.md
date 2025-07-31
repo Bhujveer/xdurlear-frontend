@@ -40,3 +40,7 @@ npm start
 **Bhujveer Singh**  
 📧 Email: [singhbhujveer351@gmail.com](mailto:singhbhujveer351@gmail.com)  
 🔗 GitHub: [https://github.com/bhujveer](https://github.com/bhujveer)
+
+🔗 Live Project (Internship): _Previously hosted at [xdurlear.com](http://xdurlear.com)_
+
+
